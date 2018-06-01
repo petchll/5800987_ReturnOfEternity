@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\LoginSystem\RankingData.cs">
+    <Files>
+      <File FileName="Assets\LoginSystem\Login.cs" Line="92" Column="50" />
+      <File FileName="C:\Users\100gb\Downloads\Final_5800759-master\Final_5800759-master\client\Zodiac Puzzle PC\Assets\Scripts\Menu\MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\CodeZone\Script\WhiteScore.cs" Line="1" Column="1" />
+      <File FileName="Assets\LoginSystem\PlayerData.cs" Line="4" Column="1" />
+      <File FileName="Assets\LoginSystem\Progress.cs" Line="11" Column="32" />
+      <File FileName="Assets\CodeZone\Script\DessertSaveScore.cs" Line="61" Column="19" />
+      <File FileName="Assets\LoginSystem\LeaderBoard.cs" Line="16" Column="23" />
+      <File FileName="Assets\LoginSystem\RankingData.cs" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
